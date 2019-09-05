@@ -1,1 +1,3 @@
 Hello. This is in GIT.
+
+And now it has some changes.
